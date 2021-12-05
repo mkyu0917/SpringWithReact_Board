@@ -1,6 +1,8 @@
 import React, {Component, useState, useEffect} from 'react';
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+/*
 
 function App () {
   const [message, setMessage] = useState("");
@@ -24,5 +26,5 @@ function App () {
       </div>
   )
 }
-
+*/
 export default App;
